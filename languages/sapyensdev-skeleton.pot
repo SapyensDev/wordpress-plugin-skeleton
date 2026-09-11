@@ -1,0 +1,35 @@
+# Copyright (C) 2026 SapyensDev
+# This file is distributed under the MIT license.
+msgid ""
+msgstr ""
+"Project-Id-Version: SapyensDev Skeleton 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sapyensdev.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-01T00:00:00+00:00\n"
+"X-Domain: sapyensdev-skeleton\n"
+
+#. Plugin Name of the plugin
+msgid "SapyensDev Skeleton"
+msgstr ""
+
+#: includes/class-sapyensdevskeleton-admin.php
+msgid "Nombre"
+msgstr ""
+
+#: includes/class-sapyensdevskeleton-admin.php
+msgid "Fecha de alta"
+msgstr ""
+
+#: includes/class-sapyensdevskeleton-admin.php
+msgid "Acciones"
+msgstr ""
+
+#: includes/class-sapyensdevskeleton-settings.php
+msgid "Ajustes generales"
+msgstr ""
+
+#: includes/class-sapyensdevskeleton-settings.php
+msgid "Mensaje a mostrar"
+msgstr ""
